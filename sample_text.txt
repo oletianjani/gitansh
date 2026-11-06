@@ -1,3 +1,7 @@
 "hello team"
 "next line"
+<<<<<<< HEAD
 "hello anjani_new_1"
+=======
+"oaky now we are going to see conflict"
+>>>>>>> anjani-2
